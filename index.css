@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: left top;
+  background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-image: url("backgroundps4.jpg");
+
+}
+
+header {
+    background-color:rbga(30,30,30,0.3);
+}
+
+.atext:hover {
+    transform:scale(1.2);
+    transition-duration:1s;
+}
+.topnav {
+  overflow: hidden;
+  background-color: rgba(30,30,30,0.3);
+  text-align: center;
+  display:inline-block;
+}
+
+.topnav a {
+  float: left;
+  color: #DCDCDC;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #000000;
+  color: #DCDCDC;
+  transform:scale(1.1);
+  transition-duration:0.5s;
+}
+
+.topnav a.active {
+  background-color: red;
+  color: black;
+}
+
+
+}
+.text {
+    color:white;
+
+}
