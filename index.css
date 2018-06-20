@@ -35,8 +35,8 @@ header {
 .topnav {
   overflow: hidden;
   background-color: rgba(30,30,30,1);
-  text-align: center;
-  display:inline-block;
+  /*text-align: center;*/
+  /*display:inline-block;*/
 }
 
 .topnav a {
