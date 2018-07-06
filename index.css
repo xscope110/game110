@@ -37,7 +37,7 @@ header {
   background-color: rgba(30,30,30,1);
   text-align: center;
   display:inline-block;
-}
+}/*Sets the features of the nav bar*/
 
 .topnav a {
   float: left;
@@ -46,7 +46,7 @@ header {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-}
+}/*Sets the features of the nav bar*/
 
 .topnav a:hover {
   background-color: #000000;
@@ -58,21 +58,21 @@ header {
 .topnav a.active {
   background-color: green;
   color: white;
-}
+}/*Sets the features of the nav bar*/
 
 .content {
   padding: 16px;
-}
+}/*Sets the features of the nav bar*/
 
 .sticky {
   position: fixed;
   top: 0;
   width: 100%;
-}
+}/*Sets the features of the nav bar*/
 
 .sticky + .content {
   padding-top: 60px;
-}
+}/*Sets the features of the nav bar*/
 
 
 
